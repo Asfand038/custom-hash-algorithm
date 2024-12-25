@@ -51,4 +51,4 @@ To test the brute force attack:
    - Attempt to reverse-engineer the input string from its hash.
    - Output the original string if found.
 
-![Brute Force Attack Screenshot](./attack screenshot.png "Brute Force Attack in Action")
+![Brute Force Attack Screenshot](./attack_screenshot.png "Brute Force Attack in Action")
