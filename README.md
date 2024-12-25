@@ -47,6 +47,9 @@ To test the brute force attack:
 1. Run `bruteforce.py`:
    ```bash
    python bruteforce.py
+   
+![Hashing Screenshot](./attack_screenshot.png "Hashing in Action")
+
 2. The script will:
    - Attempt to reverse-engineer the input string from its hash.
    - Output the original string if found.
