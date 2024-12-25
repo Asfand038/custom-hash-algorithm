@@ -42,13 +42,13 @@ To see the custom hashing algorithm in action:
    - Process multiple input strings.
    - Output the corresponding hash values.
 
+![Hashing Screenshot](./hashing_screenshot.png "Hashing in Action")
+
 ### Running the Brute Force Attack
 To test the brute force attack:
 1. Run `bruteforce.py`:
    ```bash
    python bruteforce.py
-   
-![Hashing Screenshot](./attack_screenshot.png "Hashing in Action")
 
 2. The script will:
    - Attempt to reverse-engineer the input string from its hash.
